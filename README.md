@@ -41,9 +41,9 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: PRAKASH C
+### Name: A.NABITHRA
 
-### Register Number: 212223240122
+### Register Number: 212224230172
 
 ```python
 
